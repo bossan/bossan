@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![PSM-II](/bossan/assets/psm-ii.png?raw=true "PSM-II")
+![PSPO-I](/bossan/assets/pspo-i.png?raw=true "PSPO-I")
+![PAL-I](/bossan/assets/pal-i.png?raw=true "PAL-I")
+
 <!--
 **bossan/bossan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
