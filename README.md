@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I’m a passionate software developer with a strong interest in DevOps. I enjoy building software applications and diving into deployment and infrastructure challenges.  
 
 ## 💻 Technologies I Work With  
-- **Programming Languages**: Python (Django), C# (.NET), JavaScript/TypeScript
+- **Programming Languages**: Python (Django), C# (.NET), TypeScript
 - **DevOps & Infrastructure**: Kubernetes, Helm, Docker, Terraform, Linux 
 - **Databases**: Postgres, MSSQL, MongoDB, Redis
 - **CI/CD Pipelines**: ⚙️ Automating workflows and deployments  
